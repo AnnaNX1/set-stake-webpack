@@ -1,0 +1,22 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-loader": "^4.2.0",
+    "webpack-cli": "^5.0.1",
+    "wepback": "^1.0.0"
+  },
+  "dependencies": {
+    "@unique-nft/accounts": "^0.3.4",
+    "@unique-nft/sdk": "^0.2.5"
+  }
+}
